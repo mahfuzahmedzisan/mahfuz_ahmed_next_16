@@ -1,0 +1,106 @@
+{
+  "name": "John Developer",
+  "title": "Full-Stack Web Developer",
+  "bio": "Passionate web developer with 5+ years of experience building scalable web applications. Specialized in Laravel, Livewire, React, and Next.js. I create elegant solutions to complex problems and love working with modern technologies.",
+  "email": "john@example.com",
+  "phone": "+1 (555) 123-4567",
+  "location": "San Francisco, CA",
+  "avatar": "/placeholder.svg?height=200&width=200",
+  "socialLinks": {
+    "github": "https://github.com/johndeveloper",
+    "linkedin": "https://linkedin.com/in/johndeveloper",
+    "twitter": "https://twitter.com/johndeveloper",
+    "website": "https://johndeveloper.com"
+  },
+  "skills": [
+    {
+      "id": "1",
+      "name": "Laravel",
+      "category": "Backend",
+      "level": 95,
+      "icon": "🐘"
+    },
+    {
+      "id": "2",
+      "name": "Livewire",
+      "category": "Backend",
+      "level": 90,
+      "icon": "⚡"
+    },
+    {
+      "id": "3",
+      "name": "React",
+      "category": "Frontend",
+      "level": 92,
+      "icon": "⚛️"
+    },
+    {
+      "id": "4",
+      "name": "Next.js",
+      "category": "Frontend",
+      "level": 90,
+      "icon": "▲"
+    },
+    {
+      "id": "5",
+      "name": "TypeScript",
+      "category": "Frontend",
+      "level": 88,
+      "icon": "📘"
+    },
+    {
+      "id": "6",
+      "name": "PHP",
+      "category": "Backend",
+      "level": 93,
+      "icon": "🐘"
+    },
+    {
+      "id": "7",
+      "name": "MySQL",
+      "category": "Database",
+      "level": 85,
+      "icon": "🗄️"
+    },
+    {
+      "id": "8",
+      "name": "Tailwind CSS",
+      "category": "Frontend",
+      "level": 95,
+      "icon": "🎨"
+    }
+  ],
+  "experience": [
+    {
+      "id": "1",
+      "title": "Senior Full-Stack Developer",
+      "company": "Tech Solutions Inc",
+      "location": "San Francisco, CA",
+      "startDate": "2021-01",
+      "endDate": null,
+      "description": "Leading development of enterprise web applications using Laravel and React. Mentoring junior developers and architecting scalable solutions.",
+      "technologies": ["Laravel", "React", "Next.js", "MySQL", "Redis"]
+    },
+    {
+      "id": "2",
+      "title": "Full-Stack Developer",
+      "company": "Digital Agency Co",
+      "location": "Remote",
+      "startDate": "2019-06",
+      "endDate": "2020-12",
+      "description": "Developed custom CMS solutions and e-commerce platforms for clients. Implemented real-time features using Livewire.",
+      "technologies": ["Laravel", "Livewire", "Vue.js", "PostgreSQL"]
+    }
+  ],
+  "education": [
+    {
+      "id": "1",
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California",
+      "location": "Berkeley, CA",
+      "startDate": "2015-09",
+      "endDate": "2019-05",
+      "description": "Focused on software engineering and web development. Graduated with honors."
+    }
+  ]
+}

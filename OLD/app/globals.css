@@ -1,0 +1,68 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+
+    /* Background Colors and Foreground Colors */
+  --background-light: #ffffff;
+  --background: #f5f5f5;
+  --background-dark: #e5e5e5;
+  --foreground-light: #242424;
+  --foreground: #171717;
+  --foreground-dark: #0a0a0a;
+
+  /* Primary Colors */
+  --primary-50: #eff6ff;
+  --primary-100: #dbeafe;
+  --primary-200: #bfdbfe;
+  --primary-300: #93c5fd;
+  --primary-400: #60a5fa;
+  --primary-500: #3b82f6;
+  --primary-600: #2563eb;
+  --primary-700: #1d4ed8;
+  --primary-800: #1e40af;
+  --primary-900: #1e3a8a;
+  --primary-950: #172554;
+
+  /* Secondary Colors */
+  --secondary-50: #f2f0ff;
+  --secondary-100: #e5dbff;
+  --secondary-200: #d9d2ff;
+  --secondary-300: #bac8ff;
+  --secondary-400: #91a7ff;
+  --secondary-500: #6a7dff;
+  --secondary-600: #5e67eb;
+  --secondary-700: #515fc2;
+  --secondary-800: #4755a5;
+  --secondary-900: #3c447e;
+  --secondary-950: #282c57;
+
+  /* Text Colors */
+  --text-primary-light: var(--primary-500);
+  --text-primary: var(--primary-500);
+  --text-primary-dark: var(--primary-500);
+  --text-secondary-light: var(--secondary-500);
+  --text-secondary: var(--secondary-500);
+  --text-secondary-dark: var(--secondary-500);
+  --text-muted: var(--muted-500);
+
+  /* Border Colors */
+  --border-light: var(--secondary-500);
+  --border-primary: var(--primary-500);
+  --border-dark: var(--secondary-500);
+
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "title": "Getting Started with Laravel 11: What's New",
+    "slug": "getting-started-laravel-11-whats-new",
+    "excerpt": "Explore the latest features in Laravel 11 and learn how to upgrade your existing projects to take advantage of new improvements.",
+    "content": "# Getting Started with Laravel 11: What's New\n\nLaravel 11 brings exciting new features and improvements that make PHP development even more enjoyable...\n\n## Streamlined Application Structure\n\nOne of the most noticeable changes in Laravel 11 is the streamlined application structure...\n\n## Per-Second Rate Limiting\n\nLaravel 11 introduces per-second rate limiting, giving you more granular control...\n\n## Improved Queue Performance\n\nThe queue system has received significant performance improvements...",
+    "coverImage": "/placeholder.svg?height=400&width=800",
+    "author": "John Developer",
+    "publishedAt": "2024-01-15T10:00:00Z",
+    "updatedAt": "2024-01-15T10:00:00Z",
+    "tags": ["Laravel", "PHP", "Backend"],
+    "readTime": 8,
+    "published": true
+  },
+  {
+    "id": "2",
+    "title": "Building Real-Time Features with Livewire 3",
+    "slug": "building-realtime-features-livewire-3",
+    "excerpt": "Learn how to create interactive, real-time user interfaces with Laravel Livewire 3 without writing JavaScript.",
+    "content": "# Building Real-Time Features with Livewire 3\n\nLivewire 3 makes it incredibly easy to build real-time, reactive interfaces...\n\n## Why Livewire?\n\nLivewire allows you to build dynamic interfaces using only PHP...\n\n## Getting Started\n\nFirst, install Livewire in your Laravel project...",
+    "coverImage": "/placeholder.svg?height=400&width=800",
+    "author": "John Developer",
+    "publishedAt": "2024-02-01T14:30:00Z",
+    "updatedAt": "2024-02-01T14:30:00Z",
+    "tags": ["Livewire", "Laravel", "Real-time"],
+    "readTime": 10,
+    "published": true
+  },
+  {
+    "id": "3",
+    "title": "Next.js 16: The Future of React Frameworks",
+    "slug": "nextjs-16-future-react-frameworks",
+    "excerpt": "Discover the groundbreaking features in Next.js 16, including Turbopack, React Compiler, and improved caching APIs.",
+    "content": "# Next.js 16: The Future of React Frameworks\n\nNext.js 16 represents a significant leap forward in React framework development...\n\n## Turbopack is Now Stable\n\nTurbopack is now the default bundler...\n\n## React Compiler Support\n\nFull support for the React Compiler...",
+    "coverImage": "/placeholder.svg?height=400&width=800",
+    "author": "John Developer",
+    "publishedAt": "2024-02-20T09:00:00Z",
+    "updatedAt": "2024-02-20T09:00:00Z",
+    "tags": ["Next.js", "React", "Frontend"],
+    "readTime": 12,
+    "published": true
+  }
+]
